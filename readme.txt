@@ -17,7 +17,6 @@ npm install
 
     npx cypress open
 
-Isso abrirá a interface gráfica do Cypress, onde você pode selecionar e rodar os testes no navegador de sua preferencia.
+Isso abrirá a interface gráfica do Cypress, onde você pode selecionar e rodar os testes no navegador de sua escolha.
 
 
-Agora você está pronto para rodar os testes e acompanhar o progresso no repositório!!
